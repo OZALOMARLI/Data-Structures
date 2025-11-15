@@ -29,7 +29,7 @@ public class Main {
 		  this will represent the connection to our next object. 
 		 
 		 * You'll understand how to establish this connection below. 
-		  If not, go back to the previous "First"
+		  If not, go back to the previous "CreatingNode"
 		  folder and examine the image I've added.
 		 */
 		
