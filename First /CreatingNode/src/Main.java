@@ -2,7 +2,7 @@
 public class Main {
 
 	public static void main(String[] args) {
-
+ 
 		// Let's create new nodes in memory first:
 		Node node1 = new Node();
 		Node node2 = new Node();
