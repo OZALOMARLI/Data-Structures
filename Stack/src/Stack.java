@@ -11,11 +11,11 @@ public class Stack {
 	}
 
 	void push(int data) // add
-	{
-
+	{		
 		if (isFull()) {
 			System.out.println("Stack if Full! ");
-		} else {
+		} 
+		else {
 
 			index++;
 			array[index] = data;
@@ -27,7 +27,8 @@ public class Stack {
 		if (!isEmpty()) {
 			return array[index--];
 
-		} else {
+		} 
+		else {
 			System.out.println("An Array is Empty! ");
 			return -1;
 		}
@@ -43,3 +44,4 @@ public class Stack {
 	}
 
 }
+
